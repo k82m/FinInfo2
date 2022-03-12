@@ -68,6 +68,7 @@ font-family: 'Poppins', sans-serif;
             height:45px;
             text-align: center;
             transition: background-color 800ms;
+            border-radius:5px;
             
         }   
 
